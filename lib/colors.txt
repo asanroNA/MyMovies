@@ -1,0 +1,10 @@
+0xffbb86fc primary
+0xff03dac6 secondary
+0xff121212 background
+0xff3700b3 oon primary
+
+
+Primary - 0xff121420
+sahde 1 - 0xffAF615A
+
+sec - 0xff8990BD
